@@ -13,3 +13,6 @@ test.py [-h] -t IP [-p PORT] -w PATH -U USER -P PASS
 Example
 test.py -t IP [-p PORT] -w /wordpress -U admin -P admin
 ```
+## To Do
+- Add SSL support
+- Fix issue for WordPress sites with no WP path
