@@ -15,4 +15,4 @@ test.py -t IP [-p PORT] -w /wordpress -U admin -P admin
 ```
 ## To Do
 - Add SSL support
-- Fix issue for WordPress sites with no WP path
+- Fix issue for WP sites where the plugin folder name does not contain the version
